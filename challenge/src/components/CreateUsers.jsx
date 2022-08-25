@@ -105,6 +105,7 @@ const DivRow = styled.div`
     display: flex;
     flex-direction: row;
     height: 80%;
+    justify-content: center;
 `;
 
 const Div1 = styled.div`
